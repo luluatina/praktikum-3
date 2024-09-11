@@ -1,6 +1,6 @@
 Nama           : Luluatina Zakiyatal Fikri
 Program Studi  : Teknologi Informasi
 NPM            : 2420506034
-Alamat         : Kaliangkrik, Magelang
-Hobi           : Bernyanyi dan Bermain Musik
+Alamat         : Balekerto, Kaliangkrik, Magelang
+Hobi           : Bernyanyi, Mendengarkan Musik, dan Bermain Musik
 Email          : luluatina770@gmail.com
